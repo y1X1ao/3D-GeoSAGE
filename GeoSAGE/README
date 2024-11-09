@@ -1,0 +1,8 @@
+.
+├── data_preprocessing.py  # 数据预处理模块
+├── graph_building.py      # 图构建与位置编码模块
+├── models.py              # 模型定义模块
+├── training.py            # 训练与早停机制模块
+├── evaluation.py          # 测试与评估模块
+├── utils.py               # 工具函数（EarlyStopping）
+└── main.py                # 主程序
